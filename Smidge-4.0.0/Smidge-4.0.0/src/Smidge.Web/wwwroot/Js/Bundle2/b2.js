@@ -1,0 +1,1 @@
+﻿$("#jsOutput").append("<br/><span>/Js/Bundle2/b2.js</span>")

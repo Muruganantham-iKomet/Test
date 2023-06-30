@@ -1,0 +1,10 @@
+﻿@import "import1.css";
+
+body {
+    background-color: lightyellow;
+}
+
+#jsOutput span {
+    color:gray;
+    font-size:0.7em;
+}
